@@ -7,4 +7,5 @@ O primeiro Algoritmo que sempre fazemos ao iniciar
 
 ## Média
 para o calculo da média, é necessário a soma de todos os números
-e depois divido-lo pela quantidade de números existentes
+e depois divido-lo pela quantidade de números existentes.
+Desta forma obtemos o resultado da media.
